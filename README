@@ -1,0 +1,28 @@
+# 💼 Personal Portfolio Website
+
+Welcome to my personal portfolio website. This project showcases my skills, projects, and contact information. It's built using basic web development technologies and serves as an introduction to who I am.
+
+---
+
+## 🧰 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Optional)
+
+---
+
+## 🚀 Features
+
+- ✨ Responsive Design
+- 🧠 Clean and minimal layout
+- 🧾 Project showcase section
+- 📞 Contact information
+
+---
+
+## 🔧 How to Run the Project
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/YourUsername/portfolio-website.git
