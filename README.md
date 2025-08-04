@@ -27,5 +27,5 @@ I'm Siddhant Nayak, a B.Tech student passionate about web development and coding
 
 Feel free to connect with me on:
 - [LinkedIn](https://linkedin.com/in/yourprofile)  
-- Email: yourname@example.com
+- Email: nsiddhant15@gmail.com
 -
